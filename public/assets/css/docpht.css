@@ -10,6 +10,18 @@ p {
     color: #6c757d;
 }
 
+hr {
+    max-width: 25%;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #2b353e!important;
+}
+
+.navbar-brand {
+    color: #6c757d!important;
+}
+
 .text-muted {
     color: #b1b2b3!important;
 }
@@ -21,8 +33,11 @@ p {
 }
 
 .container {
-    margin-top: 20px;
-    max-width: 900px;
+    margin-top: 10px;
+}
+
+.card {
+    width: 30rem;
 }
 
 .carousel {
