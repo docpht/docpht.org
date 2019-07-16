@@ -65,6 +65,51 @@ hr {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23ccc' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
 }
 
+.laptop {
+    position: relative;
+}
+
+.laptop-screen {
+    padding: 1% 1%;
+    margin: 0 10%;
+    background: #010101;
+    border-radius: 20px 20px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 0 2px #909090;
+}
+
+.laptop-keyboard {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #8b8483;
+    height: 5%;
+    border-radius: 0 0 100% 100%;
+}
+
+.laptop-keyboard::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50%;
+    background: #e8e9ea;
+}
+
+.laptop-keyboard::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 40%;
+    right: 40%;
+    height: 30%;
+    border-radius: 0 0 30px 30px;
+    background: #d5d5d5;
+    box-shadow: inset 0 0 0 2px #cacaca;
+}
+
 code {
     font-size: 87.5%;
     color: #2196f3;
