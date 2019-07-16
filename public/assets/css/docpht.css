@@ -26,6 +26,18 @@ hr {
     color: #b1b2b3!important;
 }
 
+.btn-docpht {
+    color: #fff;
+    background-color: #2196f3;
+    border-color: #2196f3;
+}
+
+.btn-docpht:hover {
+    color: #fff;
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
 .display-4 {
     font-size: 3.5rem;
     font-weight: 500;
