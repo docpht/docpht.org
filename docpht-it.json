@@ -1,0 +1,9 @@
+{
+    "pIntro" : "Con DocPHT puoi prendere appunti e documentare rapidamente qualsiasi cosa e senza l'uso di alcun database.",
+    "aDownload" : "Scarica",
+    "h4Demo" : "Prova la versione demo",
+    "h4AvailableDownload" : "Disponibile per il download",
+    "btnInstantDownload" : "Download istantaneo",
+    "h4Composer" : "Installazione con composer",
+    "h4Docker" : "Comando Docker Pull"
+}
