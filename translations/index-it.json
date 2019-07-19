@@ -3,7 +3,7 @@
     "aDownload" : "Scarica",
     "h4Demo" : "Prova la versione demo",
     "h4AvailableDownload" : "Disponibile per il download",
-    "btnDownloadNow" : "Scarica Adesso",
+    "btnDownloadNow" : "Scarica Adesso <i class='fa fa-download' aria-hidden='true'></i>",
     "h4Composer" : "Installazione con composer",
     "h4Docker" : "Comando Docker Pull"
 }
