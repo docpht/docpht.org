@@ -124,7 +124,7 @@
     <script src="public/assets/js/jqueryTranslator.min.js"></script>
 	<script>
 		(function(){
-			$("[data-translate]").jqTranslate('docpht',{defaultLang: 'en'});
+			$("[data-translate]").jqTranslate(['index'], {path: 'translations'}, {defaultLang: 'en'}, {cache: false});
 		})();
 	</script>
 </body>
