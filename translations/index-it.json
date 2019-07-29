@@ -5,5 +5,6 @@
     "h4AvailableDownload" : "Disponibile per il download",
     "btnDownloadNow" : "Scarica Adesso <i class='fa fa-download' aria-hidden='true'></i>",
     "h4Composer" : "Installazione con composer",
-    "h4Docker" : "Comando Docker Pull"
+    "h4Docker" : "Comando Docker Pull",
+    "domainSponsored" : "Dominio sponsorizzato da <a href='https://iltuobrand.it'>ilTuoBrand.it</a>"
 }
