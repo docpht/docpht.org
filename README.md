@@ -1,3 +1,6 @@
+![GitHub](https://img.shields.io/github/license/docpht/docpht.org?style=flat-square)
+![Website](https://img.shields.io/website/https/docpht.org?style=flat-square)
+
 # DocPHT.org website
 
 This website is a simple HTML static webpage.
