@@ -1,0 +1,10 @@
+{
+    "pIntro" : "Avec DocPHT, vous pouvez prendre des notes et documenter rapidement n'importe quoi! Vous pouvez également gérer les utilisateurs, enregistrer des versions de vos pages et effectuer et restaurer des sauvegardes. Complet avec une interface personnalisable, le tout avec une portabilité maximale et sans utiliser de base de données. Vous ne le croirez pas avant de l'essayer!",
+    "aDownload" : "Télécharger",
+    "h4Demo" : "Essayez la version démo",
+    "h4AvailableDownload" : "Disponible en téléchargement",
+    "btnDownloadNow" : "Téléchargez maintenant <i class='fa fa-download' aria-hidden='true'></i>",
+    "h4Composer" : "Installation avec composer",
+    "h4Docker" : "Commandement Docker Pull",
+    "domainSponsored" : "Domaine parrainé par <a href='https://iltuobrand.it'>ilTuoBrand.it</a>"
+}

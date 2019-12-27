@@ -1,0 +1,10 @@
+{
+    "pIntro" : "Pomoću DocPHT možete voditi bilješke i brzo dokumentirati bilo što! Također možete upravljati korisnicima, spremati verzije stranica te izvoditi i vraćati sigurnosne kopije. Zajedno s sučeljem koje se može prilagoditi, a sve s maksimalnom prenosivošću i bez upotrebe bilo koje baze podataka. Nećete vjerovati dok ga ne isprobate!",
+    "aDownload" : "Preuzimanje",
+    "h4Demo" : "Isprobajte demo verziju",
+    "h4AvailableDownload" : "Dostupno za preuzimanje",
+    "btnDownloadNow" : "Preuzmi odmah <i class='fa fa-download' aria-hidden='true'></i>",
+    "h4Composer" : "Instalacija sa composer",
+    "h4Docker" : "Naredba Docker Pull",
+    "domainSponsored" : "Domena sponzorirala <a href='https://iltuobrand.it'>ilTuoBrand.it</a>"
+}
